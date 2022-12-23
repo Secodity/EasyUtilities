@@ -13,6 +13,9 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Secodity/EasyUtilities/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Secodity/EasyUtilities/</RepositoryUrl>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageReleaseNotes>First release. Contining only NextDueDateCalculator.</PackageReleaseNotes>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
