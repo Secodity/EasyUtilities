@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUtilities", "EasyUtilities\EasyUtilities.csproj", "{BBC3A911-A419-4131-9737-FA3EFC741CDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyUtilities", "EasyUtilities\EasyUtilities.csproj", "{BBC3A911-A419-4131-9737-FA3EFC741CDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUtilities.Tests", "EasyUtilities.Tests\EasyUtilities.Tests.csproj", "{32DC1A1B-6E73-4C1B-A1E9-EC1FECAFD47F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyUtilities.Tests", "EasyUtilities.Tests\EasyUtilities.Tests.csproj", "{32DC1A1B-6E73-4C1B-A1E9-EC1FECAFD47F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2BC21911-9212-4B7A-9E9F-ACA4649822B8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
